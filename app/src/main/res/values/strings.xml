@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">My Profile</string>
+    <string name="favorite">Favorite Restaurant</string>
+    <string name="history">Order History</string>
+    <string name="faq">FAQs</string>
+    <string name="logout">Log Out</string>
+    <string name="home">Home</string>
+    <string name="username">username</string>
+
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+    <string name="mobile">0123456789</string>
+    <string name="foody">Foody</string>
+    <string name="login_logo">login_logo</string>
+    <string name="enter_mobile_number">Enter  Mobile Nmuber</string>
+    <string name="enter_password">Enter  Password</string>
+    <string name="Login">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="new__user">New user? Sign Up</string>
+    <string name="name_new">Enter  Your  Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="password">Enter Password</string>
+    <string name="confirm_password">confirm Password</string>
+    <string name="register">Register</string>
+    <string name="logo_forgot">forgot_logo</string>
+    <string name="details">Enter Your Registered Mobile Number And Email Below</string>
+    <string name="old_mobile_number">Mobile Number</string>
+    <string name="old_email">Email Address</string>
+    <string name="next_btn">next</string>
+    <string name="enter_the_received_otp_below">Enter The Received OTP Below</string>
+    <string name="otp_4_characters">OTP (4 Characters)</string>
+    <string name="button_submit">Button</string>
+    <string name="submit">Submit</string>
+    <string name="new_password">New Password</string>
+    <string name="restaurant_name">Restaurant Name</string>
+    <string name="rs_299_person">Rs.299/Person</string>
+    <string name="_4_5">4.5</string>
+    <string name="resLogo">TODO</string>
+    <string name="confirm_order">confirm order</string>
+    <string name="faq_answer_one">As Many different dishes you want But you cannot order the same dish two plates. </string>
+    <string name="faq_answer_two">Depends on the distance between you and restaurant..</string>
+    <string name="faq_answer_three">In the Login Screen Click  Forgot  Password and fill up the details.</string>
+    <string name="faq_answer_four">Not Available yet! we are working on it...</string>
+    <string name="faq_answer_five">"In the Navigation Drawer  on the left  side You will find a section \"Order  History\". click on it You will get all the details "</string>
+    <string name="faq_answer_six">Just update Your  info in the About  section..it will be reflected in your profile.</string>
+    <string name="no_favorites">You do not have any favorite restaurants</string>
+    <string name="no_orders">You haven\'t placed any orders yet</string>
+    <string name="order_history_static_text">Your previous orders are listed below :</string>
+    <string name="name">name</string>
+    <string name="dummy_phone">+91-1234567890</string>
+    <string name="email">EmailAddress</string>
+    <string name="address">Delivery Address</string>
+    <string name="go_to_cart">Proceed to Cart</string>
+    <string name="dummy_date">20/12/2018</string>
+    <string name="order_placed">Your order has been successfully placed!</string>
+    <string name="filter">filter</string>
+    <string name="faqs">FAQs</string>
+    <string name="order_history">Order  History</string>
+    <string name="favorites">Favorite Restaurant</string>
+    <string name="my_profile">My Profile</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="choose_password">Password (Min. 4 characters)</string>
+    <string name="registration">Register</string>
+    <string name="next">Next</string>
+    <string name="enter_mobile_forgot_password">Enter Your Registered Mobile Number And Email Below</string>
+    <string name="otp">Enter OTP</string>
+    <string name="enter_otp">Enter the Received OTP Below</string>
+    <string name="login">LOGIN</string>
+    <string name="register_yourself">Register  Yourself</string>
+
+    <array name="filters">
+        <item>Cost(Low to High)</item>
+        <item>Cost(High to Low)</item>
+        <item>Rating</item>
+    </array>
+
+</resources>
