@@ -1,6 +1,6 @@
 <resources>
-    <color name="colorPrimary">#ff5039</color>
-    <color name="colorPrimaryDark">#ee2732</color>
+    <color name="colorPrimary">#434343</color>
+    <color name="colorPrimaryDark">#0EE39F</color>
     <color name="colorPrimaryLight">#ff5039</color>
     <color name="colorAccent">#cb202d</color>
     <color name="cart_button">#4CAF50</color>
